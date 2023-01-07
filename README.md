@@ -13,7 +13,7 @@
   The raw data set is sourced from Bloomberg Terminal and Yahoo Finance. S &P 500 is an
 index measuring the performances of 500 large companies from 11 business sectors based
 on their value and market capital. We utilize S &P 500 as our data set since the main focus
-in this paper is on large companies from different industries. The data set contains 503
+in the corresponding paper is on large companies from different industries. The data set contains 503
 individual stocks from S & P 500, and we pulled the daily closing prices of each S & P 500
 company for the period August 8, 2017 to September 6, 2020. We index the available dates
 from 0 (August 8, 2017) to 1279 (September 6, 2020).
