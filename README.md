@@ -81,5 +81,5 @@ We first use logistic regression (LR). Next, random forests (RF). Two neural net
 are also employed: one is a classical neural net (NN), and the other is a long short-term
 memory net with a batch normalizer (LSTM). The results are as follows:
 
-
+![Results](https://github.com/mjroberts543/Jump-Hypothesis-Tests/blob/main/ml.png)
   
