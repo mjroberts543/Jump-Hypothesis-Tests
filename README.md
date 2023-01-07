@@ -40,7 +40,9 @@ Given stock close prices in length- $m$ work day periods, we do the following:
 
 5. We take the time periods with $z$ above some threshold and classify those time periods as having large jumps.  
 
-The result of this algorithm is a list of 0's and 1's, representing whether the time period that begins on each day has large or small jumps. 
+The result of this algorithm is a list of 0's and 1's, representing whether the time period that begins on each day has large or small jumps. Graphically, I have highlighted the large jump time periods in red below. This is slightly misleading because the time periods overlap. Note that, in actuality, each period is 10 days.
+
+![Results](https://github.com/mjroberts543/Jump-Hypothesis-Tests/blob/main/red.png)
 
 # Machine Learning Predictions:  
 
