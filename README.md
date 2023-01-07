@@ -1,7 +1,7 @@
 # Jump-Hypothesis-Tests
 
 # Overview:  
-   This repository contains an application of hypothesis testing on time series modeled by Lévy processes. The method is used in  
+   This repository contains an application of hypothesis testing on time series modeled by Lévy processes. The method is used in my papers
    
    [_Infinitesimal generators for two-dimensional Lévy process-driven hypothesis testing_](https://link.springer.com/article/10.1007/s10436-019-00355-y),  
    [_Sequential Hypothesis Testing in Machine Learning, and Crude Oil Price Jump Size Detection_](https://www.tandfonline.com/doi/full/10.1080/1350486X.2020.1859943), and  
