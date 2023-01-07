@@ -7,7 +7,7 @@
    [_Sequential Hypothesis Testing in Machine Learning, and Crude Oil Price Jump Size Detection_](https://www.tandfonline.com/doi/full/10.1080/1350486X.2020.1859943), and  
    _Hypothesis tests on high dimensional data streams, with finance application_ (to be published).  
    
-   The goal is to identify periods of time when the jump parameters of the underlying stochastic processes are large relative to the training data set's and then use those results to predict the size of the jumps for future time periods. Specifically, I have applied it to oil prices and stock prices. This repository focuses on the application to 6 time series of stock close prices.  
+   The goal is to identify periods of time when the jump parameters of the underlying stochastic processes are large relative to the training data set's and then use those results to predict the size of the jumps for future time periods. Specifically, I have applied it to oil prices and stock prices. This repository focuses on the application to 6 time series of stock close prices along with the S \& P 500 index.  
    
 # The Data:  
   The raw data set is sourced from Bloomberg Terminal and Yahoo Finance. S &P 500 is an
